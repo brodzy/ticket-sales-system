@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace hw09_brodzinski.classes
+namespace ticket_sales_system.classes
 {
     public class Ticket
     {

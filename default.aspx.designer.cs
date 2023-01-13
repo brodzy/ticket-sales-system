@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace hw09_brodzinski
+namespace ticket_sales_system
 {
 
 

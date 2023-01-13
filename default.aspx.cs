@@ -5,9 +5,9 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using hw09_brodzinski.classes;
+using ticket_sales_system.classes;
 
-namespace hw09_brodzinski
+namespace ticket_sales_system
 {
     public partial class _default : System.Web.UI.Page
     {

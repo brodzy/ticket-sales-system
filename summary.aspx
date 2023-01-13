@@ -1,10 +1,11 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="summary.aspx.cs" Inherits="hw09_brodzinski.summary" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="summary.aspx.cs" Inherits="ticket_sales_system.summary" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <title>Event Summary</title>
+    <link href="styles.css" rel="stylesheet" />
     <style type="text/css">
         .auto-style1 {
             height: 31px;
